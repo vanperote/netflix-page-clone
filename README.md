@@ -10,4 +10,4 @@ Veja o resultado acessando o link ao lado --->
 
 Qualquer contribuição é bem-vinda.. Faça o Fork no Sandbox
 
-⌨️ com ❤️ por [Vanessa Perote](https://gist.github.com/vanperote) 😊
+⌨️ com ❤️ por [Vanessa Perote]() 😊
