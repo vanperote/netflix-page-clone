@@ -1,6 +1,6 @@
-# Netflix Page Clone (VANFLIX)
+# Netflix Page Clone (VanFliX)
 
-Em HTML, CSS, Javascript bem simples de entender
+Em HTML, CSS, Javascript 
 
 ### 📋 Pré-requisitos
 
